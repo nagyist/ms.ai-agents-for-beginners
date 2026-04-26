@@ -54,14 +54,14 @@
     "language_code": "sl"
   },
   "00-course-setup/README.md": {
-    "original_hash": "92ec007431c31629aa2525fcce435874",
-    "translation_date": "2026-03-06T22:25:50+00:00",
+    "original_hash": "a63889ff95be3dab375e4333789a97e4",
+    "translation_date": "2026-04-20T15:37:04+00:00",
     "source_file": "00-course-setup/README.md",
     "language_code": "sl"
   },
   "01-intro-to-ai-agents/README.md": {
-    "original_hash": "c4c9f47eb7667c205758beb26d75d90c",
-    "translation_date": "2026-03-06T22:22:56+00:00",
+    "original_hash": "46877a8b5d92ee5602fcd4b4f306d2f6",
+    "translation_date": "2026-04-20T16:43:27+00:00",
     "source_file": "01-intro-to-ai-agents/README.md",
     "language_code": "sl"
   },
@@ -420,8 +420,8 @@
     "language_code": "sl"
   },
   "14-microsoft-agent-framework/README.md": {
-    "original_hash": "2d153fbcc8e355ae8c371227dc289173",
-    "translation_date": "2026-03-06T22:15:44+00:00",
+    "original_hash": "54c7b0de08243bb0c1804d31c31a7823",
+    "translation_date": "2026-04-20T15:38:20+00:00",
     "source_file": "14-microsoft-agent-framework/README.md",
     "language_code": "sl"
   },
@@ -450,8 +450,8 @@
     "language_code": "sl"
   },
   "15-browser-use/README.md": {
-    "original_hash": "d41d8cd98f00b204e9800998ecf8427e",
-    "translation_date": "2026-01-30T02:01:52+00:00",
+    "original_hash": "0715ae6c81f606086d0dce085b7ef076",
+    "translation_date": "2026-04-12T08:33:55+00:00",
     "source_file": "15-browser-use/README.md",
     "language_code": "sl"
   },
@@ -468,8 +468,8 @@
     "language_code": "sl"
   },
   "README.md": {
-    "original_hash": "588cf32fe03afae620609de3b9522fcb",
-    "translation_date": "2026-04-06T15:47:30+00:00",
+    "original_hash": "3d6e1634c7be9aefbe9d706bbb1ab268",
+    "translation_date": "2026-04-24T12:24:45+00:00",
     "source_file": "README.md",
     "language_code": "sl"
   },

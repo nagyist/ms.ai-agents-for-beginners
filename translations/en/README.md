@@ -1,6 +1,6 @@
 # AI Agents for Beginners - A Course
 
-![Generative AI For Beginners](../../translated_images/en/repo-thumbnailv2.06f4a48036fde647.webp)
+![AI Agents for Beginners](../../translated_images/en/repo-thumbnailv2.06f4a48036fde647.webp)
 
 ## A course teaching everything you need to know to start building AI Agents
 
@@ -71,9 +71,10 @@ The code examples in these exercises utilize Microsoft Agent Framework with Azur
 
 This course uses the following AI Agent frameworks and services from Microsoft:
 
-- [Microsoft Agent Framework (MAF)](https://aka.ms/ai-agents-beginners/agent-framewrok)
+- [Microsoft Agent Framework (MAF)](https://aka.ms/ai-agents-beginners/agent-framework)
 - [Azure AI Foundry Agent Service V2](https://aka.ms/ai-agents-beginners/ai-agent-service)
 
+Some code samples also support alternative OpenAI-compatible providers such as [MiniMax](https://platform.minimaxi.com/), which offers large-context models (up to 204K tokens). See the [Course Setup](./00-course-setup/README.md) for configuration details.
 
 For more information on running the code for this course, go to the [Course Setup](./00-course-setup/README.md).
 
@@ -108,7 +109,7 @@ Do you have suggestions or found spelling or code errors? [Raise an issue](https
 | Context Engineering for AI Agents            | [Link](./12-context-engineering/README.md)         | [Video](https://youtu.be/F5zqRV7gEag)                                 | [Link](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
 | Managing Agentic Memory                      | [Link](./13-agent-memory/README.md)     |      [Video](https://youtu.be/QrYbHesIxpw?si=vZkVwKrQ4ieCcIPx)                                                      |                                                                                        |
 | Exploring Microsoft Agent Framework                         | [Link](./14-microsoft-agent-framework/README.md)                            |                                                            |                                                                                        |
-| Building Computer Use Agents (CUA)           | Coming Soon                            |                                                            |                                                                                        |
+| Building Computer Use Agents (CUA)           | [Link](./15-browser-use/README.md)     |                                                            | [Link](https://docs.browser-use.com/examples/templates/playwright-integration)         |
 | Deploying Scalable Agents                    | Coming Soon                            |                                                            |                                                                                        |
 | Creating Local AI Agents                     | Coming Soon                               |                                                            |                                                                                        |
 | Securing AI Agents                           | Coming Soon                               |                                                            |                                                                                        |
@@ -197,6 +198,6 @@ If you have product feedback or errors while building visit:
 ---
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
-**Disclaimer**:
+**Disclaimer**:  
 This document has been translated using AI translation service [Co-op Translator](https://github.com/Azure/co-op-translator). While we strive for accuracy, please be aware that automated translations may contain errors or inaccuracies. The original document in its native language should be considered the authoritative source. For critical information, professional human translation is recommended. We are not liable for any misunderstandings or misinterpretations arising from the use of this translation.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->
